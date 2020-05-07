@@ -1,0 +1,24 @@
+{
+  "name": "book-cab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankush1024/bookCab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankush1024/bookCab/issues"
+  },
+  "homepage": "https://github.com/ankush1024/bookCab#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "haversine": "^1.1.1",
+    "sqlite3": "^4.2.0"
+  }
+}
